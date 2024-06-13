@@ -3,6 +3,8 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  color: #fff;
+  text-shadow: #000 1px 1px;
 }
 
 body {
@@ -10,3 +12,5 @@ body {
   width: 100vw;
   background: linear-gradient(180deg, #363467 0%, rgba(30, 29, 79, 0.8) 100%);
 }
+
+
